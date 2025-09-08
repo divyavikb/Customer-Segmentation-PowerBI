@@ -113,6 +113,4 @@ AdventureWorks-Customer-Sales-Insights/
 * 📊 Skilled in **Power BI, SQL, Python, Machine Learning**
 
 
----
 
-Would you like me to also add a **“How to Use the Theme Toggle” GIF or short demo screenshot** (light vs dark) under *Sample Dashboard* to make the README more visually appealing?
